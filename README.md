@@ -10,4 +10,13 @@ Save Favorite Recipes: Save your favorite recipes to access them quickly later.
 View Favorite Recipes: View a list of your saved favorite recipes.
 Display Ingredient Images: View images of ingredients used in the recommended recipes.
 
+# Output 
+
+![image](https://github.com/angelvino/Dynamic-recipe-recommendation-App/assets/109471128/37984173-0e8f-467a-b596-138354f50d42)
+
+![image](https://github.com/angelvino/Dynamic-recipe-recommendation-App/assets/109471128/00ca0b4f-6ddf-42a5-9c73-1ca067e7fcfc)
+
+
+
+
 (For now i Have only 3 recipe you can add more of your choice)
